@@ -1,6 +1,0 @@
-source "/Users/balazsbalogh/esp/esp-idf/components/app_update/Kconfig.projbuild"
-source "/Users/balazsbalogh/esp/esp-idf/components/bootloader/Kconfig.projbuild"
-source "/Users/balazsbalogh/esp/esp-idf/components/esp_rom/Kconfig.projbuild"
-source "/Users/balazsbalogh/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
-source "/Users/balazsbalogh/esp/esp-idf/components/partition_table/Kconfig.projbuild"
-source "/Users/balazsbalogh/Documents/Development/CPP/ESP/HomeKitTest01/application/esp-apple-homekit-adk/port/Kconfig.projbuild"
